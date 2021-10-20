@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 204, 255);
+  
+  }
+  
+  div {
+    background-color: rgb(192, 246, 255);
+    text-align: center;
+  }
+  
+  [src] {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
+
+  ul li {
+font-size: xx-small;
+color: blue;
+text-align: center
+  }
+
+p {font-size: xx-large;
+color: aqua;
+}
